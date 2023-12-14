@@ -1,5 +1,3 @@
-api url: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=363&date=28-02-2022
-
 http://localhost:3000/getHospitals (POST Request)
 
 Input:
